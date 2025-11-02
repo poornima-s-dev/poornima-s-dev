@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="150" height="150" style="border-radius:50%;">
+  <img src="https://avatars.githubusercontent.com/u/231230028?v=4&size=64" width="150" height="150" style="border-radius:50%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Poornima S</h1>
