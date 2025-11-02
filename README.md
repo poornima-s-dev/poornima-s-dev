@@ -1,17 +1,32 @@
-## Hi there 👋 I'm Poornima S
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="150" height="150" style="border-radius:50%;">
+</p>
 
-**poornima-s-dev/poornima-s-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Poornima S</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=poornima-s-dev&label=Profile%20views&color=0e75b6&style=flat" alt="poornima-s-dev" /> 
+</p>
 
 ---
 
-- 🔭 I’m currently working on **Full Stack Development Projects**
-- 🌱 I’m currently learning **Java, Spring Boot, React, and Full Stack Web Development**
-- 💻 I work with **HTML, CSS, JavaScript, React, SQL, MongoDB, and Python**
-- 🧩 I also explore **Manual Testing** and backend development using **Spring Boot**
-- 💬 Ask me about **Java, React, or Web Development**
-- 📫 How to reach me: **poornima.2019s@gmail.com**
-- 🌐 Check out my portfolio: [Portfolio Space](https://poornima-s-dev.github.io)
-- ⚡ Fun fact: I love learning new technologies and improving every day!
+- 🌱 I’m currently learning **Full Stack Development** (Java | Spring Boot | React)  
+- 💻 I work with **HTML, CSS, JavaScript, React, SQL, MongoDB, and Python**  
+- 🧩 I also explore **Manual Testing** and backend development using **Spring Boot**  
+- 🚀 I’m building projects to strengthen my **web development** and **problem-solving** skills  
+- 💬 Ask me about **AI and ML**  
+- 📫 How to reach me: **poornima.2019s@gmail.com**  
+- 🌐 Check out my portfolio: [Portfolio Space](https://poornima-s-dev.github.io)  
+- ⚡ Fun fact: I love solving problems with code!  
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/poornima-s-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://github.com/poornima-s-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -39,9 +54,9 @@
 
 ---
 
-### 🏆 Achievements:
+### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poornima-s-dev&theme=dracula&no-frame=true&margin-w=15" alt="trophies" />
+  <img src="https://streak-stats.demolab.com?user=poornima-s-dev&theme=tokyonight&hide_border=true" alt="poornima-s-dev" />
 </p>
 
 ---
