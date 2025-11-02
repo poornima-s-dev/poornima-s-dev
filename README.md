@@ -1,16 +1,16 @@
-## Hi there 👋 I'm Poornima S  
+## Hi there 👋 I'm Poornima S
 
-A passionate **Full Stack Developer** from India 🇮🇳  
+**poornima-s-dev/poornima-s-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
 
-- 🔭 I’m currently working on **Full Stack Web Development Projects**  
-- 🌱 I’m currently learning **Java, Spring Boot, React, and MongoDB**  
-- 💻 I love building web apps using **HTML, CSS, JavaScript, React, SQL, and Python**  
-- 🧩 I also explore **Manual Testing** and backend development with **Spring Boot**  
-- 💬 Ask me about **Java, React, or Web Development**  
-- 📫 How to reach me: **poornima.2019s@gmail.com**  
-- 🌐 Check out my portfolio: [Portfolio Space](https://poornima-s-dev.github.io)  
+- 🔭 I’m currently working on **Full Stack Development Projects**
+- 🌱 I’m currently learning **Java, Spring Boot, React, and Full Stack Web Development**
+- 💻 I work with **HTML, CSS, JavaScript, React, SQL, MongoDB, and Python**
+- 🧩 I also explore **Manual Testing** and backend development using **Spring Boot**
+- 💬 Ask me about **Java, React, or Web Development**
+- 📫 How to reach me: **poornima.2019s@gmail.com**
+- 🌐 Check out my portfolio: [Portfolio Space](https://poornima-s-dev.github.io)
 - ⚡ Fun fact: I love learning new technologies and improving every day!
 
 ---
