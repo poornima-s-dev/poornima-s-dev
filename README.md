@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/231230028?v=4&size=64" width="150" height="150" style="border-radius:50%;">
-</p>
-
 <h1 align="center">Hi 👋, I'm Poornima S</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
